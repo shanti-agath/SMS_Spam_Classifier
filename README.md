@@ -18,4 +18,5 @@ Accuracy: ~92%
 
 ## How to Run
 pip install -r requirements.txt
+
 python spam_classifier.py
