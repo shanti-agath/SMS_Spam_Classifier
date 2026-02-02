@@ -6,7 +6,7 @@ This project classifies SMS messages as spam or ham using Machine Learning.
 - Python
 - Pandas
 - Scikit-learn
-- TF-IDF
+- TF-IDF 
 
 ## Workflow
 1. Data cleaning and preprocessing
