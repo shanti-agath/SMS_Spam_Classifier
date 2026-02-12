@@ -1,4 +1,4 @@
-# SMS Spam Classifier
+# SMS Spam Classifier 
 
 This project classifies SMS messages as spam or ham using Machine Learning.
 
