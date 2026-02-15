@@ -10,7 +10,7 @@ This project classifies SMS messages as spam or ham using Machine Learning.
 
 ## Workflow
 1. Data cleaning and preprocessing 
-2. Text vectorization using TF-IDF
+2. Text vectorization using TF-IDF 
 3. Model training and evaluation 
 
 ## Result
