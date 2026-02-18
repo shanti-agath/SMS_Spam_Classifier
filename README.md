@@ -63,7 +63,7 @@ SMS_Spam_Classifier/
 4. Split data into training and testing sets  
 5. Train model using **Multinomial Naive Bayes** and **Logistic Regression**  
 6. Evaluate model using accuracy and classification report  
-7. Predict spam or ham for new SMS messages  
+7. Predict spam or ham for new SMS messages 
 
 ---
 
