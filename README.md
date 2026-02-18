@@ -107,6 +107,6 @@ jupyter notebook notebooks/SMS_Spam_Classifier.ipynb
 
 **Shanti Agath**  
 Final Year Computer Engineering Student  
-Interested in AI/ML & Data Science 
+Interested in AI/ML & Data Science
 
 GitHub: https://github.com/shanti-agath
