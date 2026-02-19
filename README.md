@@ -5,7 +5,7 @@ This project is a Machine Learning based SMS Spam Detection system that classifi
 
 ---
 
-## 🚀 Project Objective 
+## 🚀 Project Objective
 
 To build a model that can automatically detect whether an SMS message is spam or not, helping reduce unwanted and fraudulent messages. 
 
