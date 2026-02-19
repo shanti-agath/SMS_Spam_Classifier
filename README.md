@@ -1,5 +1,5 @@
 
-# 📩 SMS Spam Classifier
+# 📩 SMS Spam Classifier 
 
 This project is a Machine Learning based SMS Spam Detection system that classifies messages as **Spam** or **Ham (Not Spam)** using Natural Language Processing (NLP) techniques and a **Naive Bayes** classifier. 
 
