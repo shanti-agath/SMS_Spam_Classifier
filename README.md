@@ -23,7 +23,7 @@ To build a model that can automatically detect whether an SMS message is spam or
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure 
 
 ```
 SMS_Spam_Classifier/
