@@ -19,7 +19,7 @@ To build a model that can automatically detect whether an SMS message is spam or
 - NLTK  
 - TF-IDF Vectorizer  
 - Multinomial Naive Bayes  
-- Jupyter Notebook  
+- Jupyter Notebook   
 
 ---
 
